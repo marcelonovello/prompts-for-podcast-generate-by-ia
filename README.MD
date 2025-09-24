@@ -21,7 +21,7 @@
 
 <audio controls>
   <source src="./output/reactao_cadeia_css.mp3" type="audio/mpeg">
-  Seu navegador não suporta o elemento de áudio.
+</audio>
 
 
 </p>
