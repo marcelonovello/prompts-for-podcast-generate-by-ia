@@ -19,7 +19,10 @@
 </p>
 
 <p align="center">
-    preview do podcast
+<audio controls>
+  <source src="https://github.com/marcelonovello/prompts-for-podcast-generate-by-ia/raw/main/output/reactao_cadeia_css.mp3" type="audio/mp3">
+  Seu navegador não suporta o elemento de áudio.
+</audio>
 </p>
 
 <div align="center">
