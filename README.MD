@@ -20,9 +20,10 @@
 
 <p align="center">
 <audio controls>
-  <source src="https://github.com/marcelonovello/prompts-for-podcast-generate-by-ia/raw/main/output/reactao_cadeia_css.mp3" type="audio/mp3">
+  <source src="https://github.com/marcelonovello/prompts-for-podcast-generate-by-ia/raw/main/output/reactao_cadeia_css.mp3" type="audio/mpeg">
   Seu navegador não suporta o elemento de áudio.
 </audio>
+
 </p>
 
 <div align="center">
