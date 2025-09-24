@@ -20,9 +20,10 @@
 
 <p align="center">
 <audio controls>
-  <source src="./reactao_cadeia_css.mp3" type="audio/mpeg">
+  <source src="./output/reactao_cadeia_css.mp3" type="audio/mpeg">
   Seu navegador não suporta o elemento de áudio.
 </audio>
+
 </p>
 
 <div align="center">
